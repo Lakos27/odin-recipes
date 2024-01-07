@@ -1,7 +1,14 @@
 /* bagpizza.css */
-.color{
 
+.background{
+    background-color: rgb(182, 56, 56);
+}
+.subtitle{
+    font-family: 'impact','Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    color:orange;
 }
 .font{
-    font-family: "comics sans";
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
 }
